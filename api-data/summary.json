@@ -1,0 +1,27 @@
+{
+  "title": "音乐文化趋势数据分析",
+  "range": "1980-2025",
+  "description": "基于 Billboard Hot 100 与歌词文本的长期分析，聚焦情绪走势、主题占比、语言纹理与关键词语义。",
+  "yearlyCount": 46,
+  "yearRange": {
+    "min": 1980,
+    "max": 2025
+  },
+  "averageSentiment": 0.444404133678656,
+  "topicNames": {
+    "0": "怀旧叙事",
+    "1": "街头生活",
+    "2": "保护与激励",
+    "3": "派对与庆祝",
+    "4": "失落与遗憾"
+  },
+  "dataQuality": [
+    {
+      "candidate_songs": 19403,
+      "lyrics_rows": 16759,
+      "matched_songs": 16881,
+      "missing_songs": 2522,
+      "duplicate_rows": 0
+    }
+  ]
+}

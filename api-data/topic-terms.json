@@ -1,0 +1,114 @@
+{
+  "topics": [
+    {
+      "topic": "0",
+      "topic_name": "怀旧叙事",
+      "terms": [
+        "girl",
+        "let",
+        "boy",
+        "dance",
+        "body",
+        "party",
+        "thats",
+        "stop",
+        "move",
+        "need",
+        "talk",
+        "crazy",
+        "hot",
+        "tonight",
+        "shake"
+      ],
+      "raw": "0.061*\"girl\" + 0.017*\"let\" + 0.017*\"boy\" + 0.014*\"dance\" + 0.012*\"body\" + 0.010*\"party\" + 0.010*\"thats\" + 0.009*\"stop\" + 0.009*\"move\" + 0.009*\"need\" + 0.009*\"talk\" + 0.009*\"crazy\" + 0.008*\"hot\" + 0.008*\"tonight\" + 0.008*\"shake\""
+    },
+    {
+      "topic": "1",
+      "topic_name": "街头生活",
+      "terms": [
+        "nigga",
+        "bitch",
+        "shit",
+        "fuck",
+        "money",
+        "thats",
+        "ima",
+        "tryna",
+        "hit",
+        "lil",
+        "bout",
+        "as",
+        "real",
+        "big",
+        "man"
+      ],
+      "raw": "0.031*\"nigga\" + 0.023*\"bitch\" + 0.018*\"shit\" + 0.015*\"fuck\" + 0.010*\"money\" + 0.007*\"thats\" + 0.006*\"ima\" + 0.006*\"tryna\" + 0.006*\"hit\" + 0.006*\"lil\" + 0.006*\"bout\" + 0.005*\"as\" + 0.005*\"real\" + 0.005*\"big\" + 0.005*\"man\""
+    },
+    {
+      "topic": "2",
+      "topic_name": "保护与激励",
+      "terms": [
+        "life",
+        "said",
+        "still",
+        "man",
+        "song",
+        "ever",
+        "thats",
+        "world",
+        "made",
+        "gone",
+        "home",
+        "friend",
+        "even",
+        "better",
+        "always"
+      ],
+      "raw": "0.015*\"life\" + 0.012*\"said\" + 0.011*\"still\" + 0.008*\"man\" + 0.008*\"song\" + 0.007*\"ever\" + 0.007*\"thats\" + 0.007*\"world\" + 0.007*\"made\" + 0.007*\"gone\" + 0.007*\"home\" + 0.007*\"friend\" + 0.007*\"even\" + 0.006*\"better\" + 0.006*\"always\""
+    },
+    {
+      "topic": "3",
+      "topic_name": "派对与庆祝",
+      "terms": [
+        "light",
+        "high",
+        "fire",
+        "sky",
+        "rock",
+        "rain",
+        "ride",
+        "blue",
+        "hand",
+        "round",
+        "town",
+        "sun",
+        "star",
+        "world",
+        "fly"
+      ],
+      "raw": "0.018*\"light\" + 0.013*\"high\" + 0.010*\"fire\" + 0.009*\"sky\" + 0.009*\"rock\" + 0.009*\"rain\" + 0.009*\"ride\" + 0.008*\"blue\" + 0.008*\"hand\" + 0.008*\"round\" + 0.008*\"town\" + 0.008*\"sun\" + 0.007*\"star\" + 0.007*\"world\" + 0.007*\"fly\""
+    },
+    {
+      "topic": "4",
+      "topic_name": "失落与遗憾",
+      "terms": [
+        "heart",
+        "need",
+        "away",
+        "wont",
+        "eye",
+        "mind",
+        "every",
+        "stay",
+        "there",
+        "alone",
+        "run",
+        "leave",
+        "find",
+        "feeling",
+        "fall"
+      ],
+      "raw": "0.026*\"heart\" + 0.024*\"need\" + 0.018*\"away\" + 0.014*\"wont\" + 0.011*\"eye\" + 0.011*\"mind\" + 0.010*\"every\" + 0.010*\"stay\" + 0.009*\"there\" + 0.009*\"alone\" + 0.009*\"run\" + 0.008*\"leave\" + 0.008*\"find\" + 0.007*\"feeling\" + 0.007*\"fall\""
+    }
+  ]
+}

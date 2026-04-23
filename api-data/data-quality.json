@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "candidate_songs": 19403,
+      "lyrics_rows": 16759,
+      "matched_songs": 16881,
+      "missing_songs": 2522,
+      "duplicate_rows": 0
+    }
+  ]
+}

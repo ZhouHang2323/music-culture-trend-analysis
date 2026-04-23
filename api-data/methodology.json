@@ -1,0 +1,24 @@
+{
+  "methods": [
+    {
+      "name": "数据来源",
+      "detail": "Billboard Hot 100 榜单数据，以及通过 Genius 获取的歌词文本数据。"
+    },
+    {
+      "name": "情绪分析",
+      "detail": "使用 VADER compound score，并按年份聚合后计算三年居中平滑趋势。"
+    },
+    {
+      "name": "主题分析",
+      "detail": "基于清洗后的英文歌词与分词结果进行 LDA topic modeling。"
+    },
+    {
+      "name": "语言纹理",
+      "detail": "从 cleaned_lyrics 中提取 Type-Token Ratio 与 avg_word_len。"
+    },
+    {
+      "name": "语义关键词",
+      "detail": "围绕 love、money、heart、dream 提取关键句与时代上下文。"
+    }
+  ]
+}

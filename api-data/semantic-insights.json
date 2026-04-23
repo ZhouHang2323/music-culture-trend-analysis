@@ -1,0 +1,2194 @@
+{
+  "keywords": [
+    "love",
+    "money",
+    "heart",
+    "dream"
+  ],
+  "trend": [
+    {
+      "year": 1980,
+      "keyword": "dream",
+      "count": 65
+    },
+    {
+      "year": 1980,
+      "keyword": "heart",
+      "count": 112
+    },
+    {
+      "year": 1980,
+      "keyword": "love",
+      "count": 230
+    },
+    {
+      "year": 1980,
+      "keyword": "money",
+      "count": 16
+    },
+    {
+      "year": 1981,
+      "keyword": "dream",
+      "count": 76
+    },
+    {
+      "year": 1981,
+      "keyword": "heart",
+      "count": 122
+    },
+    {
+      "year": 1981,
+      "keyword": "love",
+      "count": 225
+    },
+    {
+      "year": 1981,
+      "keyword": "money",
+      "count": 9
+    },
+    {
+      "year": 1982,
+      "keyword": "dream",
+      "count": 50
+    },
+    {
+      "year": 1982,
+      "keyword": "heart",
+      "count": 98
+    },
+    {
+      "year": 1982,
+      "keyword": "love",
+      "count": 197
+    },
+    {
+      "year": 1982,
+      "keyword": "money",
+      "count": 7
+    },
+    {
+      "year": 1983,
+      "keyword": "dream",
+      "count": 74
+    },
+    {
+      "year": 1983,
+      "keyword": "heart",
+      "count": 141
+    },
+    {
+      "year": 1983,
+      "keyword": "love",
+      "count": 240
+    },
+    {
+      "year": 1983,
+      "keyword": "money",
+      "count": 15
+    },
+    {
+      "year": 1984,
+      "keyword": "dream",
+      "count": 90
+    },
+    {
+      "year": 1984,
+      "keyword": "heart",
+      "count": 134
+    },
+    {
+      "year": 1984,
+      "keyword": "love",
+      "count": 237
+    },
+    {
+      "year": 1984,
+      "keyword": "money",
+      "count": 17
+    },
+    {
+      "year": 1985,
+      "keyword": "dream",
+      "count": 85
+    },
+    {
+      "year": 1985,
+      "keyword": "heart",
+      "count": 126
+    },
+    {
+      "year": 1985,
+      "keyword": "love",
+      "count": 207
+    },
+    {
+      "year": 1985,
+      "keyword": "money",
+      "count": 21
+    },
+    {
+      "year": 1986,
+      "keyword": "dream",
+      "count": 79
+    },
+    {
+      "year": 1986,
+      "keyword": "heart",
+      "count": 140
+    },
+    {
+      "year": 1986,
+      "keyword": "love",
+      "count": 215
+    },
+    {
+      "year": 1986,
+      "keyword": "money",
+      "count": 19
+    },
+    {
+      "year": 1987,
+      "keyword": "dream",
+      "count": 81
+    },
+    {
+      "year": 1987,
+      "keyword": "heart",
+      "count": 140
+    },
+    {
+      "year": 1987,
+      "keyword": "love",
+      "count": 215
+    },
+    {
+      "year": 1987,
+      "keyword": "money",
+      "count": 18
+    },
+    {
+      "year": 1988,
+      "keyword": "dream",
+      "count": 72
+    },
+    {
+      "year": 1988,
+      "keyword": "heart",
+      "count": 150
+    },
+    {
+      "year": 1988,
+      "keyword": "love",
+      "count": 239
+    },
+    {
+      "year": 1988,
+      "keyword": "money",
+      "count": 21
+    },
+    {
+      "year": 1989,
+      "keyword": "dream",
+      "count": 69
+    },
+    {
+      "year": 1989,
+      "keyword": "heart",
+      "count": 129
+    },
+    {
+      "year": 1989,
+      "keyword": "love",
+      "count": 227
+    },
+    {
+      "year": 1989,
+      "keyword": "money",
+      "count": 25
+    },
+    {
+      "year": 1990,
+      "keyword": "dream",
+      "count": 72
+    },
+    {
+      "year": 1990,
+      "keyword": "heart",
+      "count": 143
+    },
+    {
+      "year": 1990,
+      "keyword": "love",
+      "count": 229
+    },
+    {
+      "year": 1990,
+      "keyword": "money",
+      "count": 23
+    },
+    {
+      "year": 1991,
+      "keyword": "dream",
+      "count": 74
+    },
+    {
+      "year": 1991,
+      "keyword": "heart",
+      "count": 142
+    },
+    {
+      "year": 1991,
+      "keyword": "love",
+      "count": 230
+    },
+    {
+      "year": 1991,
+      "keyword": "money",
+      "count": 14
+    },
+    {
+      "year": 1992,
+      "keyword": "dream",
+      "count": 77
+    },
+    {
+      "year": 1992,
+      "keyword": "heart",
+      "count": 117
+    },
+    {
+      "year": 1992,
+      "keyword": "love",
+      "count": 202
+    },
+    {
+      "year": 1992,
+      "keyword": "money",
+      "count": 24
+    },
+    {
+      "year": 1993,
+      "keyword": "dream",
+      "count": 53
+    },
+    {
+      "year": 1993,
+      "keyword": "heart",
+      "count": 96
+    },
+    {
+      "year": 1993,
+      "keyword": "love",
+      "count": 175
+    },
+    {
+      "year": 1993,
+      "keyword": "money",
+      "count": 16
+    },
+    {
+      "year": 1994,
+      "keyword": "dream",
+      "count": 58
+    },
+    {
+      "year": 1994,
+      "keyword": "heart",
+      "count": 80
+    },
+    {
+      "year": 1994,
+      "keyword": "love",
+      "count": 167
+    },
+    {
+      "year": 1994,
+      "keyword": "money",
+      "count": 25
+    },
+    {
+      "year": 1995,
+      "keyword": "dream",
+      "count": 52
+    },
+    {
+      "year": 1995,
+      "keyword": "heart",
+      "count": 73
+    },
+    {
+      "year": 1995,
+      "keyword": "love",
+      "count": 151
+    },
+    {
+      "year": 1995,
+      "keyword": "money",
+      "count": 29
+    },
+    {
+      "year": 1996,
+      "keyword": "dream",
+      "count": 47
+    },
+    {
+      "year": 1996,
+      "keyword": "heart",
+      "count": 71
+    },
+    {
+      "year": 1996,
+      "keyword": "love",
+      "count": 135
+    },
+    {
+      "year": 1996,
+      "keyword": "money",
+      "count": 25
+    },
+    {
+      "year": 1997,
+      "keyword": "dream",
+      "count": 59
+    },
+    {
+      "year": 1997,
+      "keyword": "heart",
+      "count": 68
+    },
+    {
+      "year": 1997,
+      "keyword": "love",
+      "count": 178
+    },
+    {
+      "year": 1997,
+      "keyword": "money",
+      "count": 27
+    },
+    {
+      "year": 1998,
+      "keyword": "dream",
+      "count": 54
+    },
+    {
+      "year": 1998,
+      "keyword": "heart",
+      "count": 109
+    },
+    {
+      "year": 1998,
+      "keyword": "love",
+      "count": 196
+    },
+    {
+      "year": 1998,
+      "keyword": "money",
+      "count": 31
+    },
+    {
+      "year": 1999,
+      "keyword": "dream",
+      "count": 41
+    },
+    {
+      "year": 1999,
+      "keyword": "heart",
+      "count": 98
+    },
+    {
+      "year": 1999,
+      "keyword": "love",
+      "count": 169
+    },
+    {
+      "year": 1999,
+      "keyword": "money",
+      "count": 30
+    },
+    {
+      "year": 2000,
+      "keyword": "dream",
+      "count": 61
+    },
+    {
+      "year": 2000,
+      "keyword": "heart",
+      "count": 88
+    },
+    {
+      "year": 2000,
+      "keyword": "love",
+      "count": 192
+    },
+    {
+      "year": 2000,
+      "keyword": "money",
+      "count": 40
+    },
+    {
+      "year": 2001,
+      "keyword": "dream",
+      "count": 39
+    },
+    {
+      "year": 2001,
+      "keyword": "heart",
+      "count": 61
+    },
+    {
+      "year": 2001,
+      "keyword": "love",
+      "count": 156
+    },
+    {
+      "year": 2001,
+      "keyword": "money",
+      "count": 23
+    },
+    {
+      "year": 2002,
+      "keyword": "dream",
+      "count": 45
+    },
+    {
+      "year": 2002,
+      "keyword": "heart",
+      "count": 64
+    },
+    {
+      "year": 2002,
+      "keyword": "love",
+      "count": 170
+    },
+    {
+      "year": 2002,
+      "keyword": "money",
+      "count": 30
+    },
+    {
+      "year": 2003,
+      "keyword": "dream",
+      "count": 47
+    },
+    {
+      "year": 2003,
+      "keyword": "heart",
+      "count": 64
+    },
+    {
+      "year": 2003,
+      "keyword": "love",
+      "count": 162
+    },
+    {
+      "year": 2003,
+      "keyword": "money",
+      "count": 31
+    },
+    {
+      "year": 2004,
+      "keyword": "dream",
+      "count": 50
+    },
+    {
+      "year": 2004,
+      "keyword": "heart",
+      "count": 62
+    },
+    {
+      "year": 2004,
+      "keyword": "love",
+      "count": 153
+    },
+    {
+      "year": 2004,
+      "keyword": "money",
+      "count": 34
+    },
+    {
+      "year": 2005,
+      "keyword": "dream",
+      "count": 52
+    },
+    {
+      "year": 2005,
+      "keyword": "heart",
+      "count": 68
+    },
+    {
+      "year": 2005,
+      "keyword": "love",
+      "count": 162
+    },
+    {
+      "year": 2005,
+      "keyword": "money",
+      "count": 34
+    },
+    {
+      "year": 2006,
+      "keyword": "dream",
+      "count": 51
+    },
+    {
+      "year": 2006,
+      "keyword": "heart",
+      "count": 84
+    },
+    {
+      "year": 2006,
+      "keyword": "love",
+      "count": 170
+    },
+    {
+      "year": 2006,
+      "keyword": "money",
+      "count": 38
+    },
+    {
+      "year": 2007,
+      "keyword": "dream",
+      "count": 51
+    },
+    {
+      "year": 2007,
+      "keyword": "heart",
+      "count": 86
+    },
+    {
+      "year": 2007,
+      "keyword": "love",
+      "count": 163
+    },
+    {
+      "year": 2007,
+      "keyword": "money",
+      "count": 41
+    },
+    {
+      "year": 2008,
+      "keyword": "dream",
+      "count": 59
+    },
+    {
+      "year": 2008,
+      "keyword": "heart",
+      "count": 88
+    },
+    {
+      "year": 2008,
+      "keyword": "love",
+      "count": 183
+    },
+    {
+      "year": 2008,
+      "keyword": "money",
+      "count": 47
+    },
+    {
+      "year": 2009,
+      "keyword": "dream",
+      "count": 60
+    },
+    {
+      "year": 2009,
+      "keyword": "heart",
+      "count": 107
+    },
+    {
+      "year": 2009,
+      "keyword": "love",
+      "count": 200
+    },
+    {
+      "year": 2009,
+      "keyword": "money",
+      "count": 51
+    },
+    {
+      "year": 2010,
+      "keyword": "dream",
+      "count": 47
+    },
+    {
+      "year": 2010,
+      "keyword": "heart",
+      "count": 74
+    },
+    {
+      "year": 2010,
+      "keyword": "love",
+      "count": 151
+    },
+    {
+      "year": 2010,
+      "keyword": "money",
+      "count": 31
+    },
+    {
+      "year": 2011,
+      "keyword": "dream",
+      "count": 66
+    },
+    {
+      "year": 2011,
+      "keyword": "heart",
+      "count": 118
+    },
+    {
+      "year": 2011,
+      "keyword": "love",
+      "count": 244
+    },
+    {
+      "year": 2011,
+      "keyword": "money",
+      "count": 69
+    },
+    {
+      "year": 2012,
+      "keyword": "dream",
+      "count": 46
+    },
+    {
+      "year": 2012,
+      "keyword": "heart",
+      "count": 106
+    },
+    {
+      "year": 2012,
+      "keyword": "love",
+      "count": 162
+    },
+    {
+      "year": 2012,
+      "keyword": "money",
+      "count": 54
+    },
+    {
+      "year": 2013,
+      "keyword": "dream",
+      "count": 49
+    },
+    {
+      "year": 2013,
+      "keyword": "heart",
+      "count": 99
+    },
+    {
+      "year": 2013,
+      "keyword": "love",
+      "count": 202
+    },
+    {
+      "year": 2013,
+      "keyword": "money",
+      "count": 55
+    },
+    {
+      "year": 2014,
+      "keyword": "dream",
+      "count": 51
+    },
+    {
+      "year": 2014,
+      "keyword": "heart",
+      "count": 99
+    },
+    {
+      "year": 2014,
+      "keyword": "love",
+      "count": 162
+    },
+    {
+      "year": 2014,
+      "keyword": "money",
+      "count": 43
+    },
+    {
+      "year": 2015,
+      "keyword": "dream",
+      "count": 56
+    },
+    {
+      "year": 2015,
+      "keyword": "heart",
+      "count": 99
+    },
+    {
+      "year": 2015,
+      "keyword": "love",
+      "count": 198
+    },
+    {
+      "year": 2015,
+      "keyword": "money",
+      "count": 63
+    },
+    {
+      "year": 2016,
+      "keyword": "dream",
+      "count": 43
+    },
+    {
+      "year": 2016,
+      "keyword": "heart",
+      "count": 79
+    },
+    {
+      "year": 2016,
+      "keyword": "love",
+      "count": 185
+    },
+    {
+      "year": 2016,
+      "keyword": "money",
+      "count": 62
+    },
+    {
+      "year": 2017,
+      "keyword": "dream",
+      "count": 45
+    },
+    {
+      "year": 2017,
+      "keyword": "heart",
+      "count": 110
+    },
+    {
+      "year": 2017,
+      "keyword": "love",
+      "count": 190
+    },
+    {
+      "year": 2017,
+      "keyword": "money",
+      "count": 96
+    },
+    {
+      "year": 2018,
+      "keyword": "dream",
+      "count": 60
+    },
+    {
+      "year": 2018,
+      "keyword": "heart",
+      "count": 101
+    },
+    {
+      "year": 2018,
+      "keyword": "love",
+      "count": 243
+    },
+    {
+      "year": 2018,
+      "keyword": "money",
+      "count": 136
+    },
+    {
+      "year": 2019,
+      "keyword": "dream",
+      "count": 47
+    },
+    {
+      "year": 2019,
+      "keyword": "heart",
+      "count": 100
+    },
+    {
+      "year": 2019,
+      "keyword": "love",
+      "count": 221
+    },
+    {
+      "year": 2019,
+      "keyword": "money",
+      "count": 95
+    },
+    {
+      "year": 2020,
+      "keyword": "dream",
+      "count": 72
+    },
+    {
+      "year": 2020,
+      "keyword": "heart",
+      "count": 142
+    },
+    {
+      "year": 2020,
+      "keyword": "love",
+      "count": 264
+    },
+    {
+      "year": 2020,
+      "keyword": "money",
+      "count": 137
+    },
+    {
+      "year": 2021,
+      "keyword": "dream",
+      "count": 70
+    },
+    {
+      "year": 2021,
+      "keyword": "heart",
+      "count": 144
+    },
+    {
+      "year": 2021,
+      "keyword": "love",
+      "count": 264
+    },
+    {
+      "year": 2021,
+      "keyword": "money",
+      "count": 106
+    },
+    {
+      "year": 2022,
+      "keyword": "dream",
+      "count": 64
+    },
+    {
+      "year": 2022,
+      "keyword": "heart",
+      "count": 110
+    },
+    {
+      "year": 2022,
+      "keyword": "love",
+      "count": 248
+    },
+    {
+      "year": 2022,
+      "keyword": "money",
+      "count": 113
+    },
+    {
+      "year": 2023,
+      "keyword": "dream",
+      "count": 59
+    },
+    {
+      "year": 2023,
+      "keyword": "heart",
+      "count": 130
+    },
+    {
+      "year": 2023,
+      "keyword": "love",
+      "count": 253
+    },
+    {
+      "year": 2023,
+      "keyword": "money",
+      "count": 94
+    },
+    {
+      "year": 2024,
+      "keyword": "dream",
+      "count": 62
+    },
+    {
+      "year": 2024,
+      "keyword": "heart",
+      "count": 127
+    },
+    {
+      "year": 2024,
+      "keyword": "love",
+      "count": 263
+    },
+    {
+      "year": 2024,
+      "keyword": "money",
+      "count": 85
+    },
+    {
+      "year": 2025,
+      "keyword": "dream",
+      "count": 59
+    },
+    {
+      "year": 2025,
+      "keyword": "heart",
+      "count": 121
+    },
+    {
+      "year": 2025,
+      "keyword": "love",
+      "count": 222
+    },
+    {
+      "year": 2025,
+      "keyword": "money",
+      "count": 53
+    }
+  ],
+  "decades": [
+    {
+      "decade": 1980,
+      "term": "just",
+      "count": 6415
+    },
+    {
+      "decade": 1980,
+      "term": "baby",
+      "count": 6075
+    },
+    {
+      "decade": 1980,
+      "term": "now",
+      "count": 4411
+    },
+    {
+      "decade": 1980,
+      "term": "out",
+      "count": 3984
+    },
+    {
+      "decade": 1980,
+      "term": "never",
+      "count": 3752
+    },
+    {
+      "decade": 1980,
+      "term": "heart",
+      "count": 3280
+    },
+    {
+      "decade": 1980,
+      "term": "down",
+      "count": 3184
+    },
+    {
+      "decade": 1980,
+      "term": "more",
+      "count": 3131
+    },
+    {
+      "decade": 1980,
+      "term": "need",
+      "count": 2899
+    },
+    {
+      "decade": 1980,
+      "term": "girl",
+      "count": 2880
+    },
+    {
+      "decade": 1980,
+      "term": "away",
+      "count": 2667
+    },
+    {
+      "decade": 1980,
+      "term": "not",
+      "count": 2493
+    },
+    {
+      "decade": 1990,
+      "term": "baby",
+      "count": 7915
+    },
+    {
+      "decade": 1990,
+      "term": "just",
+      "count": 6547
+    },
+    {
+      "decade": 1990,
+      "term": "now",
+      "count": 4757
+    },
+    {
+      "decade": 1990,
+      "term": "down",
+      "count": 3961
+    },
+    {
+      "decade": 1990,
+      "term": "never",
+      "count": 3955
+    },
+    {
+      "decade": 1990,
+      "term": "out",
+      "count": 3687
+    },
+    {
+      "decade": 1990,
+      "term": "more",
+      "count": 3107
+    },
+    {
+      "decade": 1990,
+      "term": "girl",
+      "count": 2947
+    },
+    {
+      "decade": 1990,
+      "term": "not",
+      "count": 2886
+    },
+    {
+      "decade": 1990,
+      "term": "need",
+      "count": 2855
+    },
+    {
+      "decade": 1990,
+      "term": "about",
+      "count": 2467
+    },
+    {
+      "decade": 1990,
+      "term": "heart",
+      "count": 2465
+    },
+    {
+      "decade": 2000,
+      "term": "just",
+      "count": 7745
+    },
+    {
+      "decade": 2000,
+      "term": "baby",
+      "count": 6330
+    },
+    {
+      "decade": 2000,
+      "term": "now",
+      "count": 5854
+    },
+    {
+      "decade": 2000,
+      "term": "out",
+      "count": 5158
+    },
+    {
+      "decade": 2000,
+      "term": "girl",
+      "count": 4932
+    },
+    {
+      "decade": 2000,
+      "term": "down",
+      "count": 4444
+    },
+    {
+      "decade": 2000,
+      "term": "more",
+      "count": 3947
+    },
+    {
+      "decade": 2000,
+      "term": "never",
+      "count": 3538
+    },
+    {
+      "decade": 2000,
+      "term": "not",
+      "count": 3266
+    },
+    {
+      "decade": 2000,
+      "term": "about",
+      "count": 2803
+    },
+    {
+      "decade": 2000,
+      "term": "need",
+      "count": 2754
+    },
+    {
+      "decade": 2000,
+      "term": "thats",
+      "count": 2735
+    },
+    {
+      "decade": 2010,
+      "term": "just",
+      "count": 8899
+    },
+    {
+      "decade": 2010,
+      "term": "baby",
+      "count": 6769
+    },
+    {
+      "decade": 2010,
+      "term": "now",
+      "count": 6360
+    },
+    {
+      "decade": 2010,
+      "term": "out",
+      "count": 6182
+    },
+    {
+      "decade": 2010,
+      "term": "down",
+      "count": 5735
+    },
+    {
+      "decade": 2010,
+      "term": "more",
+      "count": 4523
+    },
+    {
+      "decade": 2010,
+      "term": "never",
+      "count": 4456
+    },
+    {
+      "decade": 2010,
+      "term": "girl",
+      "count": 4336
+    },
+    {
+      "decade": 2010,
+      "term": "not",
+      "count": 3777
+    },
+    {
+      "decade": 2010,
+      "term": "nigga",
+      "count": 3655
+    },
+    {
+      "decade": 2010,
+      "term": "bitch",
+      "count": 3394
+    },
+    {
+      "decade": 2010,
+      "term": "thats",
+      "count": 3383
+    },
+    {
+      "decade": 2020,
+      "term": "just",
+      "count": 6627
+    },
+    {
+      "decade": 2020,
+      "term": "out",
+      "count": 5883
+    },
+    {
+      "decade": 2020,
+      "term": "now",
+      "count": 3914
+    },
+    {
+      "decade": 2020,
+      "term": "baby",
+      "count": 3802
+    },
+    {
+      "decade": 2020,
+      "term": "bitch",
+      "count": 3801
+    },
+    {
+      "decade": 2020,
+      "term": "shit",
+      "count": 3738
+    },
+    {
+      "decade": 2020,
+      "term": "down",
+      "count": 3318
+    },
+    {
+      "decade": 2020,
+      "term": "nigga",
+      "count": 3230
+    },
+    {
+      "decade": 2020,
+      "term": "not",
+      "count": 3066
+    },
+    {
+      "decade": 2020,
+      "term": "more",
+      "count": 3052
+    },
+    {
+      "decade": 2020,
+      "term": "never",
+      "count": 3043
+    },
+    {
+      "decade": 2020,
+      "term": "fuck",
+      "count": 3022
+    }
+  ],
+  "context": [
+    {
+      "keyword": "dream",
+      "decade": 1980,
+      "term": "just",
+      "count": 1204
+    },
+    {
+      "keyword": "dream",
+      "decade": 1980,
+      "term": "never",
+      "count": 944
+    },
+    {
+      "keyword": "dream",
+      "decade": 1980,
+      "term": "baby",
+      "count": 928
+    },
+    {
+      "keyword": "dream",
+      "decade": 1980,
+      "term": "now",
+      "count": 901
+    },
+    {
+      "keyword": "dream",
+      "decade": 1980,
+      "term": "out",
+      "count": 807
+    },
+    {
+      "keyword": "dream",
+      "decade": 1980,
+      "term": "heart",
+      "count": 742
+    },
+    {
+      "keyword": "dream",
+      "decade": 1980,
+      "term": "dreams",
+      "count": 604
+    },
+    {
+      "keyword": "dream",
+      "decade": 1980,
+      "term": "more",
+      "count": 601
+    },
+    {
+      "keyword": "dream",
+      "decade": 1990,
+      "term": "baby",
+      "count": 1512
+    },
+    {
+      "keyword": "dream",
+      "decade": 1990,
+      "term": "just",
+      "count": 1292
+    },
+    {
+      "keyword": "dream",
+      "decade": 1990,
+      "term": "never",
+      "count": 889
+    },
+    {
+      "keyword": "dream",
+      "decade": 1990,
+      "term": "now",
+      "count": 854
+    },
+    {
+      "keyword": "dream",
+      "decade": 1990,
+      "term": "down",
+      "count": 775
+    },
+    {
+      "keyword": "dream",
+      "decade": 1990,
+      "term": "out",
+      "count": 702
+    },
+    {
+      "keyword": "dream",
+      "decade": 1990,
+      "term": "more",
+      "count": 691
+    },
+    {
+      "keyword": "dream",
+      "decade": 1990,
+      "term": "heart",
+      "count": 646
+    },
+    {
+      "keyword": "dream",
+      "decade": 2000,
+      "term": "just",
+      "count": 1341
+    },
+    {
+      "keyword": "dream",
+      "decade": 2000,
+      "term": "baby",
+      "count": 1004
+    },
+    {
+      "keyword": "dream",
+      "decade": 2000,
+      "term": "now",
+      "count": 932
+    },
+    {
+      "keyword": "dream",
+      "decade": 2000,
+      "term": "girl",
+      "count": 803
+    },
+    {
+      "keyword": "dream",
+      "decade": 2000,
+      "term": "out",
+      "count": 672
+    },
+    {
+      "keyword": "dream",
+      "decade": 2000,
+      "term": "more",
+      "count": 646
+    },
+    {
+      "keyword": "dream",
+      "decade": 2000,
+      "term": "never",
+      "count": 640
+    },
+    {
+      "keyword": "dream",
+      "decade": 2000,
+      "term": "down",
+      "count": 615
+    },
+    {
+      "keyword": "dream",
+      "decade": 2010,
+      "term": "just",
+      "count": 1497
+    },
+    {
+      "keyword": "dream",
+      "decade": 2010,
+      "term": "now",
+      "count": 1044
+    },
+    {
+      "keyword": "dream",
+      "decade": 2010,
+      "term": "baby",
+      "count": 800
+    },
+    {
+      "keyword": "dream",
+      "decade": 2010,
+      "term": "down",
+      "count": 792
+    },
+    {
+      "keyword": "dream",
+      "decade": 2010,
+      "term": "never",
+      "count": 779
+    },
+    {
+      "keyword": "dream",
+      "decade": 2010,
+      "term": "out",
+      "count": 776
+    },
+    {
+      "keyword": "dream",
+      "decade": 2010,
+      "term": "more",
+      "count": 679
+    },
+    {
+      "keyword": "dream",
+      "decade": 2010,
+      "term": "girl",
+      "count": 594
+    },
+    {
+      "keyword": "dream",
+      "decade": 2020,
+      "term": "just",
+      "count": 1078
+    },
+    {
+      "keyword": "dream",
+      "decade": 2020,
+      "term": "out",
+      "count": 862
+    },
+    {
+      "keyword": "dream",
+      "decade": 2020,
+      "term": "now",
+      "count": 726
+    },
+    {
+      "keyword": "dream",
+      "decade": 2020,
+      "term": "down",
+      "count": 542
+    },
+    {
+      "keyword": "dream",
+      "decade": 2020,
+      "term": "never",
+      "count": 516
+    },
+    {
+      "keyword": "dream",
+      "decade": 2020,
+      "term": "baby",
+      "count": 492
+    },
+    {
+      "keyword": "dream",
+      "decade": 2020,
+      "term": "more",
+      "count": 451
+    },
+    {
+      "keyword": "dream",
+      "decade": 2020,
+      "term": "not",
+      "count": 418
+    },
+    {
+      "keyword": "heart",
+      "decade": 1980,
+      "term": "just",
+      "count": 2392
+    },
+    {
+      "keyword": "heart",
+      "decade": 1980,
+      "term": "baby",
+      "count": 2339
+    },
+    {
+      "keyword": "heart",
+      "decade": 1980,
+      "term": "now",
+      "count": 1693
+    },
+    {
+      "keyword": "heart",
+      "decade": 1980,
+      "term": "never",
+      "count": 1581
+    },
+    {
+      "keyword": "heart",
+      "decade": 1980,
+      "term": "girl",
+      "count": 1262
+    },
+    {
+      "keyword": "heart",
+      "decade": 1980,
+      "term": "out",
+      "count": 1218
+    },
+    {
+      "keyword": "heart",
+      "decade": 1980,
+      "term": "need",
+      "count": 1151
+    },
+    {
+      "keyword": "heart",
+      "decade": 1980,
+      "term": "more",
+      "count": 1140
+    },
+    {
+      "keyword": "heart",
+      "decade": 1990,
+      "term": "baby",
+      "count": 3058
+    },
+    {
+      "keyword": "heart",
+      "decade": 1990,
+      "term": "just",
+      "count": 2248
+    },
+    {
+      "keyword": "heart",
+      "decade": 1990,
+      "term": "never",
+      "count": 1667
+    },
+    {
+      "keyword": "heart",
+      "decade": 1990,
+      "term": "now",
+      "count": 1603
+    },
+    {
+      "keyword": "heart",
+      "decade": 1990,
+      "term": "out",
+      "count": 1150
+    },
+    {
+      "keyword": "heart",
+      "decade": 1990,
+      "term": "more",
+      "count": 1126
+    },
+    {
+      "keyword": "heart",
+      "decade": 1990,
+      "term": "girl",
+      "count": 1065
+    },
+    {
+      "keyword": "heart",
+      "decade": 1990,
+      "term": "not",
+      "count": 1041
+    },
+    {
+      "keyword": "heart",
+      "decade": 2000,
+      "term": "just",
+      "count": 2063
+    },
+    {
+      "keyword": "heart",
+      "decade": 2000,
+      "term": "baby",
+      "count": 1716
+    },
+    {
+      "keyword": "heart",
+      "decade": 2000,
+      "term": "now",
+      "count": 1232
+    },
+    {
+      "keyword": "heart",
+      "decade": 2000,
+      "term": "girl",
+      "count": 1160
+    },
+    {
+      "keyword": "heart",
+      "decade": 2000,
+      "term": "never",
+      "count": 1055
+    },
+    {
+      "keyword": "heart",
+      "decade": 2000,
+      "term": "out",
+      "count": 1055
+    },
+    {
+      "keyword": "heart",
+      "decade": 2000,
+      "term": "more",
+      "count": 953
+    },
+    {
+      "keyword": "heart",
+      "decade": 2000,
+      "term": "down",
+      "count": 902
+    },
+    {
+      "keyword": "heart",
+      "decade": 2010,
+      "term": "just",
+      "count": 2262
+    },
+    {
+      "keyword": "heart",
+      "decade": 2010,
+      "term": "now",
+      "count": 1786
+    },
+    {
+      "keyword": "heart",
+      "decade": 2010,
+      "term": "out",
+      "count": 1658
+    },
+    {
+      "keyword": "heart",
+      "decade": 2010,
+      "term": "baby",
+      "count": 1653
+    },
+    {
+      "keyword": "heart",
+      "decade": 2010,
+      "term": "never",
+      "count": 1526
+    },
+    {
+      "keyword": "heart",
+      "decade": 2010,
+      "term": "down",
+      "count": 1401
+    },
+    {
+      "keyword": "heart",
+      "decade": 2010,
+      "term": "more",
+      "count": 1298
+    },
+    {
+      "keyword": "heart",
+      "decade": 2010,
+      "term": "not",
+      "count": 1126
+    },
+    {
+      "keyword": "heart",
+      "decade": 2020,
+      "term": "just",
+      "count": 1933
+    },
+    {
+      "keyword": "heart",
+      "decade": 2020,
+      "term": "out",
+      "count": 1528
+    },
+    {
+      "keyword": "heart",
+      "decade": 2020,
+      "term": "baby",
+      "count": 1030
+    },
+    {
+      "keyword": "heart",
+      "decade": 2020,
+      "term": "never",
+      "count": 999
+    },
+    {
+      "keyword": "heart",
+      "decade": 2020,
+      "term": "now",
+      "count": 955
+    },
+    {
+      "keyword": "heart",
+      "decade": 2020,
+      "term": "down",
+      "count": 919
+    },
+    {
+      "keyword": "heart",
+      "decade": 2020,
+      "term": "more",
+      "count": 883
+    },
+    {
+      "keyword": "heart",
+      "decade": 2020,
+      "term": "shit",
+      "count": 866
+    },
+    {
+      "keyword": "love",
+      "decade": 1980,
+      "term": "baby",
+      "count": 4640
+    },
+    {
+      "keyword": "love",
+      "decade": 1980,
+      "term": "just",
+      "count": 4323
+    },
+    {
+      "keyword": "love",
+      "decade": 1980,
+      "term": "now",
+      "count": 2864
+    },
+    {
+      "keyword": "love",
+      "decade": 1980,
+      "term": "never",
+      "count": 2702
+    },
+    {
+      "keyword": "love",
+      "decade": 1980,
+      "term": "heart",
+      "count": 2520
+    },
+    {
+      "keyword": "love",
+      "decade": 1980,
+      "term": "out",
+      "count": 2391
+    },
+    {
+      "keyword": "love",
+      "decade": 1980,
+      "term": "need",
+      "count": 2209
+    },
+    {
+      "keyword": "love",
+      "decade": 1980,
+      "term": "girl",
+      "count": 2131
+    },
+    {
+      "keyword": "love",
+      "decade": 1990,
+      "term": "baby",
+      "count": 6440
+    },
+    {
+      "keyword": "love",
+      "decade": 1990,
+      "term": "just",
+      "count": 4215
+    },
+    {
+      "keyword": "love",
+      "decade": 1990,
+      "term": "never",
+      "count": 2887
+    },
+    {
+      "keyword": "love",
+      "decade": 1990,
+      "term": "now",
+      "count": 2870
+    },
+    {
+      "keyword": "love",
+      "decade": 1990,
+      "term": "girl",
+      "count": 2329
+    },
+    {
+      "keyword": "love",
+      "decade": 1990,
+      "term": "down",
+      "count": 2323
+    },
+    {
+      "keyword": "love",
+      "decade": 1990,
+      "term": "need",
+      "count": 2266
+    },
+    {
+      "keyword": "love",
+      "decade": 1990,
+      "term": "out",
+      "count": 2221
+    },
+    {
+      "keyword": "love",
+      "decade": 2000,
+      "term": "baby",
+      "count": 4704
+    },
+    {
+      "keyword": "love",
+      "decade": 2000,
+      "term": "just",
+      "count": 4414
+    },
+    {
+      "keyword": "love",
+      "decade": 2000,
+      "term": "now",
+      "count": 3341
+    },
+    {
+      "keyword": "love",
+      "decade": 2000,
+      "term": "girl",
+      "count": 3286
+    },
+    {
+      "keyword": "love",
+      "decade": 2000,
+      "term": "out",
+      "count": 2676
+    },
+    {
+      "keyword": "love",
+      "decade": 2000,
+      "term": "down",
+      "count": 2491
+    },
+    {
+      "keyword": "love",
+      "decade": 2000,
+      "term": "never",
+      "count": 2290
+    },
+    {
+      "keyword": "love",
+      "decade": 2000,
+      "term": "more",
+      "count": 2286
+    },
+    {
+      "keyword": "love",
+      "decade": 2010,
+      "term": "just",
+      "count": 5248
+    },
+    {
+      "keyword": "love",
+      "decade": 2010,
+      "term": "baby",
+      "count": 4305
+    },
+    {
+      "keyword": "love",
+      "decade": 2010,
+      "term": "now",
+      "count": 3476
+    },
+    {
+      "keyword": "love",
+      "decade": 2010,
+      "term": "out",
+      "count": 3214
+    },
+    {
+      "keyword": "love",
+      "decade": 2010,
+      "term": "down",
+      "count": 3062
+    },
+    {
+      "keyword": "love",
+      "decade": 2010,
+      "term": "never",
+      "count": 2763
+    },
+    {
+      "keyword": "love",
+      "decade": 2010,
+      "term": "more",
+      "count": 2592
+    },
+    {
+      "keyword": "love",
+      "decade": 2010,
+      "term": "girl",
+      "count": 2590
+    },
+    {
+      "keyword": "love",
+      "decade": 2020,
+      "term": "just",
+      "count": 3734
+    },
+    {
+      "keyword": "love",
+      "decade": 2020,
+      "term": "out",
+      "count": 3113
+    },
+    {
+      "keyword": "love",
+      "decade": 2020,
+      "term": "baby",
+      "count": 2414
+    },
+    {
+      "keyword": "love",
+      "decade": 2020,
+      "term": "now",
+      "count": 2245
+    },
+    {
+      "keyword": "love",
+      "decade": 2020,
+      "term": "shit",
+      "count": 1831
+    },
+    {
+      "keyword": "love",
+      "decade": 2020,
+      "term": "never",
+      "count": 1820
+    },
+    {
+      "keyword": "love",
+      "decade": 2020,
+      "term": "down",
+      "count": 1770
+    },
+    {
+      "keyword": "love",
+      "decade": 2020,
+      "term": "more",
+      "count": 1747
+    },
+    {
+      "keyword": "money",
+      "decade": 1980,
+      "term": "just",
+      "count": 411
+    },
+    {
+      "keyword": "money",
+      "decade": 1980,
+      "term": "baby",
+      "count": 300
+    },
+    {
+      "keyword": "money",
+      "decade": 1980,
+      "term": "out",
+      "count": 289
+    },
+    {
+      "keyword": "money",
+      "decade": 1980,
+      "term": "more",
+      "count": 235
+    },
+    {
+      "keyword": "money",
+      "decade": 1980,
+      "term": "now",
+      "count": 224
+    },
+    {
+      "keyword": "money",
+      "decade": 1980,
+      "term": "need",
+      "count": 217
+    },
+    {
+      "keyword": "money",
+      "decade": 1980,
+      "term": "never",
+      "count": 184
+    },
+    {
+      "keyword": "money",
+      "decade": 1980,
+      "term": "down",
+      "count": 178
+    },
+    {
+      "keyword": "money",
+      "decade": 1990,
+      "term": "just",
+      "count": 684
+    },
+    {
+      "keyword": "money",
+      "decade": 1990,
+      "term": "now",
+      "count": 668
+    },
+    {
+      "keyword": "money",
+      "decade": 1990,
+      "term": "down",
+      "count": 612
+    },
+    {
+      "keyword": "money",
+      "decade": 1990,
+      "term": "out",
+      "count": 564
+    },
+    {
+      "keyword": "money",
+      "decade": 1990,
+      "term": "man",
+      "count": 412
+    },
+    {
+      "keyword": "money",
+      "decade": 1990,
+      "term": "baby",
+      "count": 391
+    },
+    {
+      "keyword": "money",
+      "decade": 1990,
+      "term": "thats",
+      "count": 347
+    },
+    {
+      "keyword": "money",
+      "decade": 1990,
+      "term": "niggas",
+      "count": 328
+    },
+    {
+      "keyword": "money",
+      "decade": 2000,
+      "term": "now",
+      "count": 1041
+    },
+    {
+      "keyword": "money",
+      "decade": 2000,
+      "term": "just",
+      "count": 1036
+    },
+    {
+      "keyword": "money",
+      "decade": 2000,
+      "term": "out",
+      "count": 1022
+    },
+    {
+      "keyword": "money",
+      "decade": 2000,
+      "term": "girl",
+      "count": 977
+    },
+    {
+      "keyword": "money",
+      "decade": 2000,
+      "term": "baby",
+      "count": 770
+    },
+    {
+      "keyword": "money",
+      "decade": 2000,
+      "term": "down",
+      "count": 770
+    },
+    {
+      "keyword": "money",
+      "decade": 2000,
+      "term": "nigga",
+      "count": 550
+    },
+    {
+      "keyword": "money",
+      "decade": 2000,
+      "term": "thats",
+      "count": 527
+    },
+    {
+      "keyword": "money",
+      "decade": 2010,
+      "term": "nigga",
+      "count": 2139
+    },
+    {
+      "keyword": "money",
+      "decade": 2010,
+      "term": "just",
+      "count": 2033
+    },
+    {
+      "keyword": "money",
+      "decade": 2010,
+      "term": "out",
+      "count": 1875
+    },
+    {
+      "keyword": "money",
+      "decade": 2010,
+      "term": "bitch",
+      "count": 1874
+    },
+    {
+      "keyword": "money",
+      "decade": 2010,
+      "term": "now",
+      "count": 1589
+    },
+    {
+      "keyword": "money",
+      "decade": 2010,
+      "term": "fuck",
+      "count": 1522
+    },
+    {
+      "keyword": "money",
+      "decade": 2010,
+      "term": "shit",
+      "count": 1511
+    },
+    {
+      "keyword": "money",
+      "decade": 2010,
+      "term": "niggas",
+      "count": 1441
+    },
+    {
+      "keyword": "money",
+      "decade": 2020,
+      "term": "out",
+      "count": 2043
+    },
+    {
+      "keyword": "money",
+      "decade": 2020,
+      "term": "bitch",
+      "count": 1912
+    },
+    {
+      "keyword": "money",
+      "decade": 2020,
+      "term": "just",
+      "count": 1840
+    },
+    {
+      "keyword": "money",
+      "decade": 2020,
+      "term": "shit",
+      "count": 1594
+    },
+    {
+      "keyword": "money",
+      "decade": 2020,
+      "term": "nigga",
+      "count": 1579
+    },
+    {
+      "keyword": "money",
+      "decade": 2020,
+      "term": "fuck",
+      "count": 1253
+    },
+    {
+      "keyword": "money",
+      "decade": 2020,
+      "term": "niggas",
+      "count": 1235
+    },
+    {
+      "keyword": "money",
+      "decade": 2020,
+      "term": "off",
+      "count": 995
+    }
+  ]
+}
